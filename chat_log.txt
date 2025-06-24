@@ -1,0 +1,15 @@
+You: clear
+Chatbot: Chat history cleared.
+You: clear
+Chatbot: Chat history cleared.
+You: bye
+Chatbot: Bye Bye, Have a great day!
+You: Exit
+Chatbot: Okay! I'm exiting. If you need anything in the future, just call me back. Goodbye!
+
+You: bye
+Chatbot: Bye Bye, Have a great day!
+You: bye/exit
+Chatbot: Bye Bye, Have a great day!
+You: bye/exit
+Chatbot: Bye Bye, Have a great day!
